@@ -1,0 +1,19 @@
+{
+  "name": "AOC2023",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": { 
+    "r01": "node code/r01.js",
+    "r02": "node code/r02.js",
+    "r03": "node code/r03.js",
+    "r04": "node code/r04_all.js"
+  },
+  "keywords": [
+    "Ramda",
+    "Functional Programming"
+  ],
+  "author": "Thajunniza", 
+  "dependencies": {
+    "ramda": "^0.30.1"
+  }
+}
